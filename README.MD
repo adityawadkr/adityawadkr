@@ -1,5 +1,5 @@
 <h1 align = "center">Hey there, I'm Aditya<img src = "hi.gif" width = "40"></h1>
-<h3 align = "center">I am a Electrical Engineering Undergraduate, Early Stage Web Developer and Graphic Designer.</h3>
+<h3 align = "center">I am a Electrical Engineering Undergraduate Student, Early Stage Web Developer and Graphic Designer.</h3>
 
 <p align = "center">
 	<img src = "typing.gif" width = "500">
