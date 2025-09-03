@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Aditya <img src="hi.gif" width="40"></h1>
-<h3 align="center">I am an Electrical Engineering Undergraduate Student, Beginner Web Developer and Graphic Designer.</h3>
+<h3 align="center"> am currently pursuing a Bachelor's degree in Electrical Engineering and have a growing interest in Machine Learning and Web development, with experience in Java and Python.</h3>
 
 <p align="center">
   <img src="typing.gif" width="500">
