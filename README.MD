@@ -1,46 +1,39 @@
-<h1 align="center">Hey there, I'm Aditya <img src="hi.gif" width="40"></h1>
-<h3 align="center">I am currently pursuing a Bachelor's degree in Electrical Engineering and have a growing interest in Machine Learning and Web development, with experience in Java and Python.</h3>
+## Hi👋
 
-<p align="center">
-  <img src="typing.gif" width="500">
+I'm **Aditya Wadkar**, a Final-Year Undergraduate at **[Your College Name Here]**
+
+- 👨‍💻 I’m currently working on projects in **AI & Machine Learning**, with applications in **Transformer Condition Monitoring** and **Dealer Management Systems**.  
+- 📖 I'm currently exploring **Machine Learning, Deep Learning & Full-Stack Development**, with hands-on experience in React, Flask/FastAPI, PHP/MySQL integration.  
+- 📃 I've previously built end-to-end systems like an **SMS Spam Detection Model**, a **Customer Churn Classifier**, and a **Dealer Management System** with **Login/Signup Authentication** and **MySQL Database Integration**.
+
+## **Languages**
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
+</div>
+  
+## **Tools and Skills**
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="60" height="60"/>&nbsp;
+</div>
+
+##
+
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityawadkr&count_private=true&hide=stars&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityawadkr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/adityawadkar" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://github.com/adityawadkr" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adityawadkr&color=blue&style=flat" alt="adityawadkr">
-</p>
-
-<p align="center"><strong>Connect with me:</strong></p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/adityawadkar/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:adityaxwadkar@gmail.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
-
-<p align="center"><strong>Languages and Technologies</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED2025?style=for-the-badge&logo=java&logoColor=white" alt="java">
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="python">
-
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript">
-  <br>
-  <img src="https://img.shields.io/badge/tailwindcss-161d2d?style=for-the-badge&logo=tailwind-css&logoColor=16becb" alt="tailwindcss">
-  <br>
-  <img src="https://img.shields.io/badge/MySQL-005e86?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git">
-  <br>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="photoshop">
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=black" alt="illustrator">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityawadkr&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" alt="Aditya Wadkar's Github Stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityawadkr&theme=tokyonight" alt="Aditya Wadkar's Streak Stats">
-</p>
+![](https://komarev.com/ghpvc/?username=adityawadkr&color=blue)
