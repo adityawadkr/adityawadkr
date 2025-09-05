@@ -1,22 +1,23 @@
 ## Hi👋
 
-I'm **Aditya Wadkar**, a Final-Year Undergraduate at **[Your College Name Here]**
+I'm **Aditya Wadkar**, a Final-Year Undergraduate at **VPKBIET, Baramati**
 
-- 👨‍💻 I’m currently working on projects in **AI & Machine Learning**, with applications in **Transformer Condition Monitoring** and **Dealer Management Systems**.  
-- 📖 I'm currently exploring **Machine Learning, Deep Learning & Full-Stack Development**, with hands-on experience in React, Flask/FastAPI, PHP/MySQL integration.  
+- 👨‍💻 I’m currently working on projects in **Machine Learning & Web app developement**, with applications in **Transformer Condition Monitoring** and **Dealer Management Systems**.  
+- 📖 I'm currently exploring **Machine Learning, Deep Learning & Full-Stack Development**, with hands-on experience in Java, Python, Flask/FastAPI, PHP/MySQL integration.  
 - 📃 I've previously built end-to-end systems like an **SMS Spam Detection Model**, a **Customer Churn Classifier**, and a **Dealer Management System** with **Login/Signup Authentication** and **MySQL Database Integration**.
 
 ## **Languages**
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
 </div>
   
 ## **Tools and Skills**
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;
